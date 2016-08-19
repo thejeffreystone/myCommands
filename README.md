@@ -1,6 +1,6 @@
 # My Custom Commands
 
-Just some commands I wrote to make like easier. 
+Just some commands I wrote to make life easier. 
 
 ## Installation
 
